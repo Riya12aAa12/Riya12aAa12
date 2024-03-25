@@ -1,7 +1,9 @@
-### Hi I am Riya Jha 👋
+### Hi👋 I am Riya Jha 
 
 # 💫 About Me:
 🔭 I'm currently working on creating a website for my startup.<br>👯 I'm looking to collaborate on software development-related content creation.<br>🤝 I'm looking for help with developing a website that can help in my startup project.<br>🌱 I'm currently learning full-stack web development and cybersecurity engineering.<br>💬 ask me about website development.<br>⚡ Fun fact- I am lazy but smart.
+
+<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 ## 🌐 Socials:
