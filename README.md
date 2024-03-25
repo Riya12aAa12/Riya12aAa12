@@ -1,3 +1,5 @@
+### Hi there 👋
+
 # 💫 About Me:
 🔭 I'm currently working on creating a website for my startup.<br>👯 I'm looking to collaborate on software development-related content creation.<br>🤝 I'm looking for help with developing a website that can help in my startup project.<br>🌱 I'm currently learning full-stack web development and cybersecurity engineering.<br>💬 ask me about website development.<br>⚡ Fun fact- I am lazy but smart.
 
