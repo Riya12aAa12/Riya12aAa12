@@ -36,3 +36,13 @@
 [![](https://visitcount.itsvg.in/api?id=Riya12aAa12&icon=4&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🦾 Leetcode:
+<p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/tauqueeralam42?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+<p align="center">
+  <a href="https://leetcode.com/tauqueeralam42/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="100" width="100" /></a>
+  <a href="https://leetcode.com/tauqueeralam42/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="100" width="100" /></a>
+  <a href="https://leetcode.com/tauqueeralam42/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="100" width="100" /></a>
+</p>
+
